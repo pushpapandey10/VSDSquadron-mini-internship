@@ -15,3 +15,24 @@ This repository includes the files related to VSDSquadron Mini Research Internsh
 3. Refer to C based Lab video (https://1drv.ms/v/s!Ai4WW_jutenghrYpUsL_MLKJDSLVyg?e=gdA9TW) and RISC-V based lab video (https://1drv.ms/v/s!Ai4WW_jutengg7dbp9XlZXjJmxogBw?e=ycX4fO). <br />
 4. Complete exact steps on your machine. <br />
 5. Upload snapshot of compiled C code and RISC-V Objdmp on your GitHub repo.<br />
+
+---------------------------------------------------------------------------------------------------------
+
+
+### Task: 2 
+Performing SPIKE Simulation and Debugging a simple C code with Interactive Debugging Mode using Spike
+
+
+---------------------------------------------------------------------------------------------------------
+
+### Task: 3:
+RISC-V Instruction Types & 32-Bit Instruction Code
+
+
+---------------------------------------------------------------------------------------------------------
+
+### Task: 4:
+By making use of RISC-V Core: Verilog Netlist and Testbench, perform an experiment of Functional Simulation and observe the waveforms
+
+
+---------------------------------------------------------------------------------------------------------
