@@ -36,3 +36,12 @@ By making use of RISC-V Core: Verilog Netlist and Testbench, perform an experime
 
 
 ---------------------------------------------------------------------------------------------------------
+
+### Task: 5:
+Bluetooth Automated Smart Access Using VSDSquadron Mini RISC-V Development Board
+
+
+---------------------------------------------------------------------------------------------------------
+
+### Task: 6:
+Demonstration of Project & Acknowledgement
