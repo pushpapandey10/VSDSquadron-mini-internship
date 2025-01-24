@@ -6,7 +6,7 @@ This repository includes the files related to VSDSquadron Mini Research Internsh
 
 **Email ID:** pushpapandey6359@gmail.com  
 **GitHub Profile:** [pushpakumaripandey](https://github.com/pushpapandey10)  
-**LinkedIN Profile:** [pushpa-kumari-pandey](www.linkedin.com/in/pushpa-k-1935b12b2)
+**LinkedIN Profile:** www.linkedin.com/in/pushpa-k-1935b12b2
 
 ---------------------------------------------------------------------------------------------------------
 ### Task: 1
